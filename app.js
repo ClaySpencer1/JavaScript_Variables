@@ -6,7 +6,7 @@ console.log(
 // Exercise 1
 const firstName = "Clay";
 let lastName = "Spencer";
-var age = ;
+var age = null;
 // Exercise 2
 lastName = "Spencer";
 age = 22;
